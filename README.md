@@ -1,4 +1,4 @@
-# STM 32 Personal Proj
+# STM 32 Irled control Proj
 code for stm32
 
 this repository contains code for STM32 proj
